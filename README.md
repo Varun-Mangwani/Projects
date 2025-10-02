@@ -1,3 +1,8 @@
+#c Language Projects
+UPLOADED MANY C PROGRAMMES AND ALSO EXCITED TO UPLOAD JAVA,PYTHON FILES 
+
+#Files Info
+Upload All In Calculator/ MG Calculator Which calculates Perimeter, areas, statistics,basic mathematics etc. 
 # 💫 About Me:
 🔭 I’m currently working on C<br>👯 I’m looking to collaborate on C<br>🤝 I’m looking for help with C<br>🌱 I’m currently learning C
 
